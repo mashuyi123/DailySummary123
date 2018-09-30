@@ -54,6 +54,7 @@ ROOT_URLCONF = 'myblog.urls'
 
 TEMPLATES = [
     {
+        # template模板
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [],
         'APP_DIRS': True,
